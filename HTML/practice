@@ -1,0 +1,58 @@
+<!doctype html>
+<HTML>
+<HEAD>
+<TITLE>PRACTICE</TITLE>
+</HEAD>
+<BODY text="blue" bgcolor="#fff000" leftmargin="50">
+<a name="Top"></a>
+<a href="#Bottom">Bottom of page</a>
+<h1 align="center">Blank Space</h1>
+<P>HELLO WORLD</P>
+<P>HELLO WORLD</P>
+<hr size="8" width="600" color="black" noshade>
+<font color="pink" size="12" face="arial">
+<P>Computer is an electronivc device which recives input from input devices, process it and sends output</p>
+</font>
+x<sup>3</sup> & H<sub>2</sub>O<br>
+H &nbsp;   &nbsp;&nbsp;&nbsp;   e  &nbsp;&nbsp;&nbsp;   l  &nbsp;&nbsp;&nbsp;   l &nbsp;&nbsp;&nbsp;  o
+<ul>
+  <li>a
+    <li>b
+    </ul>
+<dl>
+  <dt>Computer
+    <dd>is an electronic devices.
+    </dl>
+<ul type="circle">
+  <li>subject
+    <ol type="1" start="4">
+      <li>It
+        <ul type="square">
+          <li>software
+            <li>hardware
+            </ul>
+            <li><math>
+              <ol type="A" start="5">
+                <li>algebra
+                  <li>trigno
+                  </ol>
+                  <li>SSc
+                  </ol>
+                  <li>Pattern4
+                  </ul>
+
+            </math>
+<tt>Typewriter Text</tt>
+<img src="save nature copy.jpeg" border="2" height="300" width="450" align="right">
+<br>
+<br>
+<a href="lohri.html">Lohri</a>
+<br><br>
+<a href="#Top">Go to top</a>
+<a name="Bottom"></a>
+<br>
+<br>
+<a href="mailto:nikhilsaini.rtk@gmail.com">Contact us</a>
+  <!--This is a comment-->
+</BODY>
+</HTML>
