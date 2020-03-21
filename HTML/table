@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<td rowspan="3" valign="center">Alpha
+<td colspan="5">beta
+</tr>
+<tr>
+<td rowspan="2">Gamma
+<td colspan="2">Delta
+<td colspan="2">lambda
+</tr>
+<tr>
+<td>1
+<td>2
+<td>3
+<td>4
+</tr>
+</table>
+</body>
+</table>
+<table border="2" height="200" width="250">
+  <tr align="center">
+    <td>a
+      <td colspan="3">B
+        </tr>
+        <tr align="center">
+          <td>c
+            <td>d
+              <td>e
+                <td rowspan="2">h
+              </tr>
+              <tr align="center">
+                <td>C
+                  <td colspan="2">H
+                  </tr>
+                </table>
+              </body>
+              </html>
