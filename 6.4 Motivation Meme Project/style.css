@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+div{
+    color: aliceblue;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+img{
+    border: 5px solid white;
+    width:100%;
+}
+h1{
+    text-transform: capitalize;
+}
